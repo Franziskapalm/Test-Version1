@@ -1,6 +1,2 @@
 # Test Version1
- Geo 77 Test1
-
-This is a new paragraph
-
-This is another new paragraph
+ GIS Test 2
